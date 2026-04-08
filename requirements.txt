@@ -145,6 +145,7 @@ rich==14.3.3
 rich-toolkit==0.19.7
 rignore==0.7.6
 rpds-py==0.30.0
+sentence-transformers
 sentry-sdk==2.57.0
 sgmllib3k==1.0.0
 shellingham==1.5.4
